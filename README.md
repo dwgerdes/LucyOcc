@@ -1,6 +1,6 @@
 # Lucy Occultations
 
-![Polymele occultation](https://github.com/dwgerdes/LucyOcc/blob/main/Images/animation_S46_Bishop.gif?raw=true title="Occultation")
+![Light curve of a star being occulted](Images/ForcePhoto_norm_Bishop.png)
 
 This repository contains a set of notebooks designed to help students better 
 understand the [stellar occultation](http://lucy.swri.edu/occ/20230204Polymele.html) 
