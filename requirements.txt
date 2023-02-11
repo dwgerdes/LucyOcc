@@ -1,0 +1,12 @@
+astropy
+numpy
+jupyter
+matplotlib
+pandas
+cmake
+ffmpeg
+swig
+keyring
+astroquery
+photutils
+git+https://github.com/kjnapier/spacerocks
