@@ -9,4 +9,5 @@ swig
 keyring
 astroquery
 photutils
+pyarrow
 git+https://github.com/kjnapier/spacerocks
