@@ -1,12 +1,12 @@
 # Lucy Occultations
 
-<center>
-![Polymele occultation](Images/animation_S46_Bishop title="Occultation")
-</center>
+
+![Polymele occultation](Images/animation_S46_Bishop.gif title="Occultation")
 
 This repository contains a set of notebooks designed to help students better 
 understand the [stellar occultation](http://lucy.swri.edu/occ/20230204Polymele.html) 
-by the Jupiter Trojan Polymele that took place on Feb 4, 2023. Polymele is a target of the 
+by the Jupiter Trojan Polymele that took place on Feb 4, 2023. Polymele is a [target](http://lucy.swri.edu/mission/Targets.html) of 
+NASA's Lucy spacecraft, which will fly by it on September 15, 2027.
 
 1. [Where is My Asteroid? How to Compute Ephemerides](Notebooks/Asteroid_Ephemerides.ipynb)
 2. [Introduction to Solar System Dynamics](Notebooks/Intro_to_Solar_System_Dynamics.ipynb)
