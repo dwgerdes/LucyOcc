@@ -10,4 +10,4 @@ NASA's Lucy spacecraft, which will fly by it on September 15, 2027.
 1. [Where is My Asteroid? How to Compute Ephemerides](Notebooks/Asteroid_Ephemerides.ipynb)
 2. [Introduction to Solar System Dynamics](Notebooks/Intro_to_Solar_System_Dynamics.ipynb)
 3. [Dynamics of Jupiter Trojans](Notebooks/Dynamics_of_Jupiter_Trojans.ipynb)
-4. [Reducing Image Data](Notebook/Reducing Image Data.ipynb)
+4. [Reducing Image Data](Notebook/Reducing%20Image%20Data.ipynb)
