@@ -11,4 +11,4 @@ NASA's Lucy spacecraft, which will fly by it on September 15, 2027.
 2. [Introduction to Solar System Dynamics](Notebooks/Intro_to_Solar_System_Dynamics.ipynb)
 3. [Dynamics of Jupiter Trojans](Notebooks/Dynamics_of_Jupiter_Trojans.ipynb)
 4. [Reducing Image Data](https://github.com/dwgerdes/LucyOcc/blob/main/Notebooks/Reducing%20Image%20Data.ipynb)
-5. [Ride Along with Lucy!](https://github.com/dwgerdes/LucyOcc/blob/main/Notebooks/Ride%20Along%20with%20Lucy!.ipynb)
+5. [Ride Along with Lucy!](https://github.com/dwgerdes/LucyOcc/blob/main/Notebooks/Ride_Along_with_Lucy!.ipynb)
